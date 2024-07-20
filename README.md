@@ -64,7 +64,7 @@ Class Schedule Management:
 `Compile and run the GymManagementSystem class.`
 
 
-### Database Schemas
+### Database Schemas:
 `CREATE DATABASE gym_management;`
 
 `CREATE TABLE IF NOT EXISTS Member (

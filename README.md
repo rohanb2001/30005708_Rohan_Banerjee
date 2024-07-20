@@ -6,7 +6,7 @@ This project is built with core Java, JDBC, MySql.
 
 This Gym Management System is a menu-based console application developed using Core Java, MySQL, and JDBC. The application allows users to manage gym members, trainers, and class schedules efficiently. It provides functionalities to register new members, add trainers, create class schedules, and perform various other management tasks
 
-####Features:
+#### Features:
 Member Management:
 - Register new members
 - View member details
